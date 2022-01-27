@@ -1,0 +1,53 @@
+- author: phil
+- tag: scribble
+- tag: on work
+- date: 2022-01-27
+- time: 9:50 MST
+
+I've been thinking about how to make the studio sustainable. And I guess for now
+by sustainable what I mean is "financially supports the workers" and for now by
+"the workers" I mean myself.
+
+Obviously the studio has to produce to survive. Nobody is (financially)
+interested in cool stuff we work on unless it is fun for them to play with. And
+that means being a bit practical with certain aspects of the project and design.
+It'd be great to spend the next 8 years learning and working on a bespoke engine,
+for example, but there won't be enough money coming in to actually spend 8 years
+on it.
+
+Less obvious is that to be really fun it's paramount to keep learning new stuff.
+It's not fun for me to repeat the same work over and over and it's not fun for
+players to play the same game over and over.
+
+So it's a balance. I need to regularly release games (parable of the pots) and
+the best way to do that is using well worn tools. At the same time I need to
+push myself deeper and deeper into all aspects of the design, spending possibly
+lots of time on things that may not materialize in direct financial ways.
+
+Right now I'm thinking that the best strategy is to approach it in cycles. I
+have a few ideas for how the cycles could work and I'm not sure which might be
+better.
+
+The first is taken from \log(0011,Re:work). The idea here is an on/off schedule.
+Something like 6 weeks of effort towards turning out games and 2 weeks of play
+time.
+
+The second is to go all in on a project until it is completed and then switch.
+So after completing a game, determine a research goal and only go back to games
+after accomplishing the goal.
+
+The third is to do a bit of each every day. Mornings dedicated towards publishing
+and afternoons dedicated towards R&D.
+
+I think the first method is by far the best. In the third method there is too
+much temptation to drop working on the game early to go back to play if the
+research is a lot of fun. The second method is a lot better, but the cycles
+could take years for some games and it's hard to know when research is "done"
+since you don't normally "finish" research.
+
+The first method I think is where I'll start. I'm not sure about the exact ratio
+of time between work and research but the ~80/20 (75/25) ratio sounds reasonable.
+I see two key benefits to this approach. The first is that it's always 100% clear
+what I should be working on: either a game or research period. The second is that
+it enables interesting divergencies to possibly be incorporated back into the game
+when it makes a lot of sense.
