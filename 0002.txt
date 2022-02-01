@@ -18,3 +18,8 @@ haven't done enough art to even purposefully go for a particular style.
 
 I'm more confident in bringing in a bit of background music and effects, but
 only after eating the frogs of control and animation.
+
+~~
+
+Today I was able to get a couple of blue cylinders to fly around a white floor,
+including vertical velocity changes. It's not much and it's so much.
