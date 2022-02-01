@@ -1,0 +1,20 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-01-31
+- time: 7:57 MST
+
+Today is the first day of the first 6 week cycle. I really pumped up my goals
+for this period. Inspired primarily by Mark Brown at Game Maker's Toolkit. This
+week I'll be looking into controlling the owl and flying around in Godot.
+
+I'm not currently worried about having it be too pretty, but I don't want to put
+off the art and sound forever, either. I'd at least like to articulate the motion
+of the flap in a reasonable time frame. This of course implies the development
+of the primary art style of the game which has me slightly concerned since I
+haven't done enough art to even purposefully go for a particular style.
+
+I'm more confident in bringing in a bit of background music and effects, but
+only after eating the frogs of control and animation.
