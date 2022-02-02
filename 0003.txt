@@ -1,0 +1,15 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-01
+- time: 10:35PM MST
+
+Today was all about blender. Emily got me a subscription to SkillShare for my
+birthday and I'm finally putting it to use. It's super helpful for hitting the
+ground running with some of these artistic tools that I've never used before.
+
+I'm way more productive in blender already! I'm not sure that I'm ready to jump
+right in to designing the owl for the game but I am at least starting to learn
+the path to achieve that.
