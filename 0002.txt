@@ -4,7 +4,7 @@
 - cycle: 1
 - box: 1
 - date: 2022-01-31
-- time: 7:57 MST
+- time: 7:57PM MST
 
 Today is the first day of the first 6 week cycle. I really pumped up my goals
 for this period. Inspired primarily by Mark Brown at Game Maker's Toolkit. This

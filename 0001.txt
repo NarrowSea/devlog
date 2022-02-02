@@ -2,7 +2,7 @@
 - tag: scribble
 - tag: on work
 - date: 2022-01-27
-- time: 9:50 MST
+- time: 9:50AM MST
 
 I've been thinking about how to make the studio sustainable. And I guess for now
 by sustainable what I mean is "financially supports the workers" and for now by
