@@ -1,0 +1,23 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-02
+- time: 09:46PM MST
+
+Today I finished the blender course that I started yesterday. Got a neat clay
+owl rendering out of it! I think that I'm doing decent with understanding how
+blender works so the next step is probably to do a series about adding a skeleton
+to the model and animating it for the game.
+
+Rendering is slow! Wowee.
+
+Overall I'm feeling super encouraged by the straightforwardness of the "box
+modeling" that I learned today. 3D creation no longer feels completely out of
+touch for me and that's a really nice feeling since everything in this game is
+3D.
+
+Time to also start sketching out the owl hero. Step one of this sculpting process
+was brining in some front and side views so I'll need to do something similar
+going forward.
