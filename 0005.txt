@@ -1,0 +1,26 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-03
+- time: 09:53PM MST
+
+Frustrations! I'm enamored by the clay style owl from yesterday but achieving
+a similar effect in Godot is...very challenging. Why am I still bothering? The
+time pressure of cycle 1 is making me reconsider not using one of the paid game
+engine systems, especially while I'm still so new at everything.
+
+I don't know enough about game engines to know where Godot is lacking versus one
+of the primary options or how (if) I would go about improving it.
+
+As Jesse said to me the other day ... "are you making games or are you building
+a game engine?"
+
+If time were infinite I'd like the answer to be both at once. But I think that
+it will be challenge enough to be financially secure with game dev as it is with
+all of the best tools at my disposal. Right now my headspace is to go with the
+standard big tools and possibly loop back to basics when I'm more experienced.
+
+I'll sleep on it, but why waste any more of my 6 weeks fighting when I should be
+*creating?*
