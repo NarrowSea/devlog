@@ -1,0 +1,19 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-04
+- time: 09:48PM MST
+
+Testing out Unity today. I've actually been able to render a clay-like owl in it
+already which is a real improvement over what I'd been able to do thus far in
+Godot. I'm not sure if it's a limitation in Godot or a limitation with me but
+it's helpful to have so many more tutorials available for Unity.
+
+Not much else to report today. Productivity overall feels low but I'm hoping it's
+an investment for future productivity once I figure out how the pipelines work.
+
+This whole clay business is taking too long so I think that tomorrow I'm going
+to get back to actually designing the game play of the owls with what I've got
+thus far. I can polish and tweak the character later on.
