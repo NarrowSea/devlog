@@ -1,0 +1,19 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-05
+- time: 09:55PM MST
+
+Unity is quite the system to get used to. I can tell that there is a lot of power
+to it but it's also hard to figure where exactly to start. I ran through a couple
+of tutorials on editor basics but I'm not sure I got anything out of them. They
+were a weird blend of way to basic and also not basic enough.
+
+All hope is not lost, though! I did find another tutorial series that seems more
+up my alley. The problem I had with the tutorials I ran today is that it was all
+configuring nodes that already existed etc. What I currently want to learn is how
+Unity goes about structuring code, connecting input devices, script scoping, etc.
+
+Here's hoping the next tutorial series goes a little bit more smoothly.
