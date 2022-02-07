@@ -1,0 +1,24 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-06
+- time: 09:43PM MST
+
+Today I started another Unity tutorial that is much more promising. It actually
+has us in the code editor which is definitely where I feel at home. I've never
+used C# before but I'm not too concerned. Especially for this first game, I have
+a feeling all the fiddly abstraction layers will be handled by Unity (if not,
+what's the point?).
+
+I'm using Rider right out of the gate because I've been enjoying the JetBrains
+line throughout the whole last year (just started my second year of subscription).
+It already works great! You can control features in Unity from Rider and the
+overall integration just feels really well done and not at all like I'm using
+a second rate tool.
+
+On a personal note, I finally got around to reorganizing my desk space. I'm super
+happy with it: all of my programming books are easily accessible and it just feels
+like a great place do get a lot of development done (at both Narrow Sea and at my
+current day job -- everybody wins).
