@@ -1,0 +1,34 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-07
+- time: 09:47PM MST
+
+Today I finished the first part of the new Unity tutorial that I'm following. It
+has been significantly more valuable! (See poor quality and barely functional
+flying clay owl video).
+
+There are another 3 parts to the series and although I'm mostly feeling good
+about "how things work" in Unity I think I'm going to go through the entire
+thing. The instructor has had a few really good tips that I'm not sure I'd ever
+really find out on my own that will save some time (customizing the layout,
+forge style wasd control in the main editing view, customizing the play mode
+screen tint). I suspect that there will be more features of that type forthcoming.
+
+I need to start thinking about exactly how I want FindTheOwl to play because I'm
+quickly approaching the point where I'll be able to actually incorporate play
+elements into the game. I have a few ideas:
+
+* Huge open world where finding the owl can take a while and it's mostly about
+  the atmosphere and the journey of finding the owl
+
+* Compact world spheres where there would be more of a puzzle element to finding
+  the owl somehow
+
+* Total shift in direction where you platform your way to the owl like the
+  original Death's Door inspiration
+
+I'll talk with E&A about it tomorrow and see if they have any other thoughts and
+ideas as well.
