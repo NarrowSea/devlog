@@ -1,0 +1,38 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-08
+- time: 09:25PM MST
+
+Finished part 2 of the 5 part Unity tutorial series that I'm working through.
+I'm glad that I decided to keep going -- the sections about how to program are
+a bit slow going but it's nice to know where to put all the scripts and how the
+various non-code portions of the application work.
+
+Yesterday I was musing about what gameplay we want to achieve in FindTheOwl and,
+while I still think it's important that we do our best to make it fun, I also
+need to be vigilant against my tendencies to chase rabbits instead of doing the
+hard work.
+
+For example, the hard work of composing the music and making the art pieces. I
+need to keep focused on bringing together the entire game before worrying about
+the Fun of it because the goal of this cycle (and this box) is about learning
+all the parts of the process of generating games. Finding the fun is certainly
+crucial for our existence as a company but it can come after making prototypes
+becomes second nature.
+
+In other words, it's hard to know whether or not a concept will be fun until you
+play with it. And without developing skills in making quick prototypes, I'll
+only be guessing at Fun. NS can't be guessing about it's main deliverable!
+
+On the other hand, I can't just endlessly get better and better at making
+prototypes without ever finishing games (and by that I mean Fun games). So there
+is a balancing act. C'est la vie, and it's what the Boxes and the Cycles are for:
+during the work cycle, focus on the work that you set out to do. During the play
+cycle, take some solitude to determine where the next work cycle would best be
+focused.
+
+If it weren't for my stated goals in work cycle 1 I'm sure that I'd be
+entertaining the distractions.
