@@ -1,0 +1,23 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-09
+- time: 09:16PM MST
+
+More Unity tutorials. Nearly done the third unit which includes a lot of info
+about animation and sound in Unity. Those will both be needed in this work cycle
+so I'm happy to be working through it.
+
+Some days are a bit harder than others for maintaining drive to get started. The
+whole house has been having a bit of a rough patch in our sleep schedules which
+is probably the root cause. Today I'm ending the session about 30m earlier than
+I have been in an attempt to get a better sleep cycle during the work cycle.
+
+I don't subscribe to the idea that pushing myself beyond the point of exhaustion
+leads to better results. I've experienced the productivity gains that you get in
+the short run from such tactics but the period of burnout after normally leads
+to a net negative effect on overall productivity. That loss of productivity can
+perhaps be justified when used to meet the final deadline of a project where you
+expect to take a long vacation anyway, but to set it as the norm is damaging.
