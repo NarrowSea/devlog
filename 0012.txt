@@ -1,0 +1,23 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-10
+- time: 09:27PM MST
+
+Today I finished the third Unity tutorial of this series. Two more to go, so at
+the rate that I've been going I should be done by 2022-02-13 or 14.
+
+My focus has been really only on getting these tutorials done quickly but not so
+quickly that I fail to learn things. I think I've kept a reasonable pace and I'm
+looking forward to getting back to FindTheOwl. Calling it quits 30m earlier is
+definitely great for sleep but those 30 minutes are sorely missed in terms of
+productivity.
+
+We got Oliver a special clock that turns wakes up when it's time to get up and
+goes to sleep when it's time for bed. Also some of those glow in the dark stars.
+Hoping that together they help him find a better sleep schedule since lately he's
+been waking up sort of randomly in the morning which doesn't help my sleep
+schedule. Maintaining sleep hygiene appears to be an important factor for side
+project development.
