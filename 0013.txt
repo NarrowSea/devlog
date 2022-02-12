@@ -1,0 +1,17 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-11
+- time: 09:17PM MST
+
+Half-way through lesson 4 of the Unity tutorial series. Today they introduced
+Coroutines which will be a great resource. Even the mechanics of the game play 
+at this point of the tutorial are getting fun: avoiding the enemy ball in this
+tutorial game is engaging.
+
+In a broader sense, I think that this game has given me a direct experience with
+the importance of finding the fun early. When I get back to FindTheOwl I think
+that figuring out the right feel for the flying should be a top priority. The
+music and art can suffer a touch if the game play of the owl feels really good.
