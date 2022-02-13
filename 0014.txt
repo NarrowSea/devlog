@@ -43,3 +43,18 @@ Sounds reasonable except that I still have no idea how to animate at all.
 Thank wumpus that I still maintain an unreasonable amount of self confidence in
 my abilities to figure all of this out. Anyways, Emily is heading back now so
 I have another 30m to squeeze into this session before my nighttime session.
+
+~~
+
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-12
+- time: 09:15PM MST
+
+Finished the unity tutorial series. I know that there's a lot more to learn, but
+I'm feeling good about jumping back over to blender tomorrow to learn about
+rigging. I think today is the longest I've ever gotten to work on NS (~5 hours)
+and it felt great.
