@@ -1,0 +1,45 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-12
+- time: 05:00PM MST
+
+Just finished the fourth tutorial. Oliver and Emily are at a play date this
+afternoon which gives me some extra NS time. There's only one more tutorial to
+go and then it's back to ... what?
+
+If I tackle my weakest point, the next step will be to go through a blender /
+unity tutorial of rigging and animating a character and bringing that into the
+owl. Since animations are going to be all over the place in FindTheOwl, that
+makes a lot of sense to me. At least the actual wings-flapping in-flight part.
+
+The timing of that strategy ends up working well, too. I finished my first
+blender tutorial on Feb 2nd (10 days ago) so it's getting to the point where if
+I don't jump back in I might start forgetting the lessons learned so far.
+
+There are 29 days (4 weeks and 1 day) left in this work cycle. Which is getting
+tight. I want to save some time in the cycle for player testing which means:
+
+Week 1:
+  - Learn how to rig skeletons to characters for use in Unity
+  - Including rigging the owl's main flight animation
+
+Week 2:
+  - Bring the owl into a Unity game with:
+    - (WC1#01.01.01) Controller input
+    - (WC1#01.01.02) Gravity and flapping
+    - (WC1#01.01.03) Left and right gliding
+    - (WC1#01.01.04) Smart Camera
+
+Week 3, 4:
+  - (WC1#01.02) Animate the other owl and bring it into the game
+  - (WC1#01.03) Have a three layer soundtrack that plays based on proximity
+  - Polish as much as possible
+  - (WC1#01.04) Play testing
+
+Sounds reasonable except that I still have no idea how to animate at all.
+Thank wumpus that I still maintain an unreasonable amount of self confidence in
+my abilities to figure all of this out. Anyways, Emily is heading back now so
+I have another 30m to squeeze into this session before my nighttime session.
