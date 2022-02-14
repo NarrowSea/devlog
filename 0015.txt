@@ -1,0 +1,29 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-13
+- time: 08:57PM MST
+
+Got a lot of art done today. Started up a new blender tutorial about 3d rigging
+characters in blender for use in Unity which is exactly what I need. At the same
+time I did some digital work on the next iteration of the owl.
+
+The basic process seems to be:
+
+1. Get a decent 2d reference from a few angles
+2. Model around the reference in blender, possibly add some texture maps
+3. Add skeleton
+4. Final touches in Unity
+
+I'm hoping this tutorial will show me more about the exact transitions between
+blender and Unity since they aren't completely compatible. Obviously the end
+result is a video game, not a render, so the final touches will need to be in
+Unity. At the same time, the blender world is a lot more powerful at creating
+the assets so we want to stay in it for as long as possible.
+
+This tutorial is 9 hours long (!) so I'll probably finish it by Thursday which
+will leave Friday-Sunday for rigging the owl in FindTheOwl. Again that's a
+pretty tight deadline, but hopefully next weekend can be as productive as this
+weekend was.
