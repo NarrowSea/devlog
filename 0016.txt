@@ -1,0 +1,22 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-14
+- time: 09:13PM MST
+
+More blender tutorials today. Finished up the (tutorial) character design and
+have moved on to doing the unwrapping process. The 3d model creation process of
+this video was a bit more in depth than the previous tutorial I did. And the
+larger focus of this series as being explicitly for a video game brings some
+additional insight about some things to think about while molding the character.
+
+The molding process seems like it could be a pit of time. Delicately molding
+each individual feather of the owl for months. Unless NS can ever afford a real
+art team that is a trap I need to avoid. The art needs to be compelling and
+beautiful, but it also needs to be done quickly. That certainly limits the range
+of art styles I can go with but that's probably a blessing.
+
+What I'm really saying is that NS won't be doing any realism any time soon. Low
+poly, pixel, clayish, etc. will have to be my go to.
