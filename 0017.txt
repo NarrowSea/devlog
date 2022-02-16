@@ -1,0 +1,24 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-15
+- time: 09:21PM MST
+
+More blender tutorial work. The character is now fully unwrapped and we have
+moved on to texture painting. The feeling of drawing on the computer is rusty
+for me but that's okay -- to reiterate my feelings from yesterday, there is no
+need to create photo realism here.
+
+A lot of the depth of character for the owl will come from layering the feather
+zones of the wings and body in nice ways. I'm currently hoping to do that with
+actual 3d objects rather than via texture paint. Not that I won't do any texture
+painting at all, but I'd like for the effects of the texture painting to be both
+broad (large color blocks) and for subtleties (hinting at more feathers than
+there are in the 3d model).
+
+I keenly feel that the art is my biggest weakness in this entire endeavour. Not
+a surprise, really. I have a lot of catching up to do -- maybe to the point
+where the first play cycle should be focused directly on the more foundational
+aspects of art. We'll see!
