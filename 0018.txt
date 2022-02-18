@@ -1,0 +1,27 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-17
+- time: 09:19PM MST
+
+No dev log yesterday because we had to take Oliver to the hospital. He's fine,
+just some tummy trouble that the health-line nurse wanted us to get checked out.
+
+Today is back to blender for some actual bone rigging. Again it's been super
+helpful to learn in this series which aspects of the character creation belong
+in blender vs in Unity. Also learned a bit more about baking normal maps which
+will be heavily used if I end up going down the clay route with FindTheOwl.
+
+Creating the bone structures is a lot of fun! After all of the work of sculpting
+out the character it feels a bit like a victory lap around blender. We'll see
+if I still feel that way at the end, though.
+
+Some projects at my main job are coming due soon and I may get assigned to work
+this weekend which will cut into cycle 1 quite a bit. That's okay though; the
+day job takes priority. Maybe I'll write more on my perspectives and thoughts
+about juggling multiple projects and family life, but for now suffice it to say
+that working on NS is a privilege that I'm enjoying only because I don't let it
+negatively impact any of my main commitments (as an employee or as a 
+Father/Husband).
