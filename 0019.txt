@@ -1,0 +1,34 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-18
+- time: 09:59PM MST
+
+More bones, now with weight mapping and the start of the more intricate rigging
+aspects. Wowee I never realized how many bone and armature components were 
+required for doing reasonable animations. Spoiler, it's a lot!
+
+I'm already thinking ahead to how much or little rigging I'll need in the owl.
+Definitely the key component are the wings, but if there is going to be any
+perching or landing animations then the armature of the talons will be really
+important too.
+
+Luckily there won't be a need to animate eyes since owls have immobile eyes. I
+just learned that today and it makes that part nice and easy: for an owl to look
+at something it must turn its head.
+
+Based on the rigging that we've done so far in the tutorial I'm not sure how
+related 3D armature and real life skeletons really are. There's some aspects
+that are similar, but designing the foot roll bones for the tutorial character
+has taken us way off what a normal foot looks like. For starters I'm fairly
+certain that my knee bones are all in my body but honestly I'm not a doctor.
+
+Getting the bone and armature down should be amenable to a good-enough followed
+by a polish cycle, especially since it's at the end of the process. I'm not so
+sure about the rest of the modeling. There is something about the UV unwrap and
+bake process that seems like a harder checkpoint to go back to. Like don't bother
+making a great armature on a shitty 3D model because when you make the model good
+you'll need to redo the armature anyways. I'm not 100% sure of that but that's
+the sense I get right now.
