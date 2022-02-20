@@ -1,0 +1,42 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-19
+- time: 09:20PM MST
+
+More bone and weight work today. Tomorrow will be adding in the control points
+(which is actually just more bones) so that the game can focus on a few control
+areas rather than having to deal with all of the bones of the animations. This
+type of thinking and experience is exactly why tutorials are so valuable. I can
+absolutely picture myself thoughtlessly interacting with individual bones in a
+game script for too long before coming upon this bone-control abstraction.
+
+I've always been a fan of going through tutorials even after developing a
+definitive circle of competence around some area. I remember when I played
+Roller Coaster Tycoon 2 as a kid I would do the tutorial on a semi regular basis.
+Although that was a bit extreme, in retrospect I think the weirder thing was how
+none of my friends or family ever bothered to do the tutorial at all.
+
+I think that learning is hard and provides almost no immediate value. The
+incentives are all wrong for it to be the default choice in some bell curve. At
+the same time, some subjects are so vastly complex that it would be impossible
+to just "skip the tutorial".
+
+The result is that folks will do the bare minimum learning required to start,
+which is great. It's what I'm about to do in FindTheOwl and it's a beautiful
+aspect of democratized knowledge. The trouble is that because the love of
+learning and curiosity isn't present (many believe it's dampened in school) for
+whatever reason, they never go back to the books, tutorials, and other resources
+to strengthen what they know.
+
+My workflow needs to incorporate constant training. I should go through all the
+tutorials and resources that I've done, and do others by different authors with
+a variety of workflows. Explore the circle of competence, maybe even grow it a
+little bit. To do otherwise is to die intellectually.
+
+I'm grateful that I've never struggled with that part of the human condition --
+and I haven't the faintest why it's easier for me. Sorry to anyone looking for
+a quick answer on how to be more curious! (Would anyone who needs help on how
+to be more curious be reading these dev log scribbles anyways?)
