@@ -1,0 +1,21 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-21
+- time: 09:05PM MST
+
+Continued work on the skeletal structure today. Again no devlog last night
+because I had a sleepover with Oli (still not feeling great). Made me think
+about what to do in the case of the unexpected during a work cycle. When it's
+just me, there aren't many options at my disposal. Unless I get a day at some
+point to try to gain back lost time I likely won't hit all of the cycles goals.
+
+At the same time, I don't want to start lowering the bar for the cycles in general.
+
+I believe the 39 Signals answer to this predicament is that it's okay (but not
+great) to lower the deliverables _of this session_ but never okay to lengthen
+the session to try to fit all of the deliverables in. I'll see where I'm at by
+next Sunday and go from there on perhaps reducing the scope if I don't get an
+opportunity to catch up and it isn't looking likely that I'll succeed.
