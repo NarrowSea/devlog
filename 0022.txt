@@ -1,0 +1,21 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-23
+- time: 09:18PM MST
+
+No devlog yesterday because I had a video chat for one of my other commitments.
+
+Today we finished the bone structure (as far as I can tell) and are ready to
+start animating the character. I've never animated anything so this is going to
+be a huge learning experience for me.
+
+Oliver is still a little bit sick but on the mend. I don't think there will be
+any more deviations from doing NS work this week so I'm doing my best to catch
+up on the 3 missed days this week. Still planning on deferring the scope
+re-evaluation until the end of this week. Perhaps a regular re-eval at the end
+of the fourth week makes sense for all work cycles. It's enough time to know
+whether or not all of the goals are likely to be achieved but also provides
+enough buffer on the other end for other people to adjust their expectations.
