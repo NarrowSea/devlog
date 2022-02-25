@@ -1,0 +1,20 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-24
+- time: 09:28PM MST
+
+Animation day! And what fun animation is. After all the work of creating the 3d
+character, animation and breathing life into the character is so rewarding. In
+a different life I could see myself doing this kind of work all the time.
+
+At the same time, I'm looking forward to moving on to the animation and
+development of the owl (as opposed to the tutorial character). I think that the
+placement of the bones and armature are really crucial for the animation step to
+feel rewarding instead of frustrating. 3d work continues to feel like it will
+be best done by completing the entirety of each step before moving on to the
+next step. Maybe that's natural for some but it's basically the opposite of what
+I'm used to in software delivery: get the entire system working even if each
+part needs work before cycling through each component and improving.
