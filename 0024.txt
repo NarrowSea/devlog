@@ -1,0 +1,25 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-25
+- time: 09:13PM MST
+
+More animation today. I'm amazed at how much believability you can achieve in
+animation with a dearth of keyframes, and amazed also at how much higher you
+can raise the bar by adding in small detail keyframes. The animation aspect of
+the 3d feels like it rewards obsession but does not necessitate it. That's
+perfect for the studio: until I can afford to have someone obsess over the
+little keyframes, we can get by well enough by animating a couple of primary
+keyframes.
+
+When it comes to FindTheOwl I'll need to start thinking about how much of the
+owl I want to be animated vs moved around. For instance, during a left or right
+bound glide it would be possible to either animate the wings separately or just
+apply a rotation to the owl, or both. I don't think we are looking for a
+science based owl simulation here so I'll probably stick with the easy routes
+for most things whenever possible.
+
+There's about 2 more hours left in this course so I should have it completed by
+Sunday and in time to do my 4 week scope evaluation.
