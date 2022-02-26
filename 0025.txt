@@ -1,0 +1,25 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-26
+- time: 02:54PM MST
+
+Finished up all of the animation and on to importing the character into Unity.
+I think I've said this before but the best part of this tutorial is the end to
+end nature of it.
+
+There were some hiccups in my export process that I've had to resolve on my own
+but so far they've all been surmountable. The process between the two systems
+is not perfect but I'll get used to it. I also suspect that I could use the
+extensibility of each system to make the pipeline better, but that could be a
+lot of work!
+
+Creating the tooling around game development is an interesting aspect that I
+hadn't really considered at the outset of NS. But it's something that we may
+end up doing quite a bit of since the frequency of many of the actions is so
+high.
+
+I probably won't be working on this again tonight since one of my friends is
+having a go away party.
