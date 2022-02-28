@@ -1,0 +1,29 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-02-27
+- time: 09:16PM MST
+
+Finished off the tutorial I've been working on today through Oliver's nap and
+this evening session. Really happy with it in general, though we'll see how much
+of it and the previous Unity tutorial will stick with me.
+
+Looking at the scope sheet for cycle 1 I'm thinking the best course of action
+for now is to focus entirely on the owls and worry about the soundtrack and
+player testing in the next work cycle.
+
+That's a fairly severe cut to the scope but from what I've seen so far it
+doesn't feel unreasonably severe. I hadn't anticipated the "get each layer
+right before moving on to the next step" aspect of 3D modeling but it prevents
+me from getting too much of a complete end to end product in a quick cycle.
+
+I'm aware that for future projects focusing on the fun that it will pay back to
+go for a rough edges art just to ensure that the actual concept is fun. But for
+now I'm maintaining my resolve not to worry about the fun of this first game:
+just get everything else in and done (and done well!).
+
+I may come to regret this course of action even for this game, to be honest.
+Higher level management and organization principles for game development are
+also part of the learning curve!
