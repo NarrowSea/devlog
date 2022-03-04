@@ -1,0 +1,20 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-03-03
+- time: 09:32PM MST
+
+I've been completely swamped with work at my day job during the last couple of
+nights. Might be working the weekend too. If so, hopefully I can get a few days
+off afterwards to catch up on NS and/or just lower the burnout levels a bit.
+
+I got moved to a project which has a hard deadline of next Wednesday so it's a
+bit of a scramble to get that up and running. It's hard to manage side projects
+in a work cycle fashion when the long work days hit but c'est la vie. I'm fairly
+fortunate that these kinds of sprints aren't too regular.
+
+I'll try to do some devlogs anyways but no promises. Sometimes after a full day
+and night of working at the day job I just need to go straight to bed to recover
+for the next day.
