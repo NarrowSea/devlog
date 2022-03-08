@@ -1,0 +1,18 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-03-07
+- time: 09:29PM MST
+
+Finished up that huge project at work (or, at least, finished the night and
+weekend development aspects of it!). I had a wrap up review meeting this morning,
+but otherwise I've been cleared to take some time off. In other words I spent a
+good 4 hours or so today modeling the owl. Modeling is really quite tricky!
+
+So long as no other night/weekend project gets assigned to me at work I think
+it's still reasonable for me to have the owl mostly ready by the end of this
+cycle. It's hard to tell since I'm still so new to blender and doing 3d work. At
+the very least I'd like to have an acceptable 3d model done, and I think that
+that is doable.
