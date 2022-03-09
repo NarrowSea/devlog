@@ -1,0 +1,27 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-03-08
+- time: 09:13PM MST
+
+I have an okayish owl! You can really tell that I'm new to 3D animation but I'm
+mostly happy with it. I was hoping that the wings would be okay to be big slabs
+but looking at the results so far I think that I will need to add some feather
+elements. The owl just doesn't feel right, especially around the outer part of
+the wing.
+
+Part of me is wondering whether or not I should go back to a simpler style. I
+know this sounds a big like a joke when looking at the screen shot, but this
+owl is maybe too photo realistic. I mean that it's trying to hard to look like
+a real owl, but I don't have the talent to actually achieve that so I wind up
+in a bad art zone.
+
+It's about 50/50 right now whether or not I trash this design.
+
+From an abstract standpoint, it's really important to not feel bad about 
+trashing your designs. Each iteration will make the next one better. As Paul
+Graham says in #0038: "Good design is redesign. It takes confidence to throw
+work away. You have to be able to think, `there's more where that came from`".
+I believe that I have barely broken the earth on my art style and skills.
