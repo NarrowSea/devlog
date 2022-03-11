@@ -1,0 +1,42 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-03-10
+- time: 09:24PM MST
+
+Today I got a lot more of the owl done. I'm still really liking this one. Is
+there potential for redo 3? Sure! But this one is good enough to bring into the
+first iteration of the actual game.
+
+Emily and I had some new ideas for making this game a bit more fun for both the
+parent and the kid:
+
+1. There would be multiple levels
+2. There would be a marco-polo style hoot mechanism that reloads to help you
+   find the mama owl. (You play as the child owl.)
+3. Each level would be set in a nighttime environment
+4. There would be collectable threads of various colours to find on each level.
+   Finding each thread starts by finding a large clock tower of a certain color.
+   These would be fairly large so that it's not too frustrating for the kids to
+   find them. Flying through the top of the clock tower attunes the owl to the
+   thread (possibly via goggles or something silly) and makes the hoot mechanism
+   work with the thread.
+   Collecting threads adds them to the nest when you find the mama owl.
+5. The level selection screen would show the progress by showing how many threads
+   you have found and whether or not you've found the mama owl. This could be
+   shown by adding colored light behind an image of a moon. In front of the moon
+   would be a silhouette of the baby and mama cuddling if you've found the mama.
+
+We'll see how it plays when we get there, but I'm liking the new direction (or
+maybe I should say that I'm liking having any direction at all!).
+
+On the business side, where should we put these games for children? I think they
+belong in their own studio since some of the other themes I'd like to eventually
+explore are a bit darker. We tossed around a few names for the children's studio
+but right now my favorite is Studio Gumbal. Oliver refers to little chocolate
+candies as "gumbles" which is really adorable and it sounds nice. Perhaps it
+ought to be Studio Gumble..except then the spelling is the same as Barney Gumble
+from The Simpsons which is not the image I want to bring up (and frankly forgot
+about before searching if there was another "studio gumble" anywhere). 
