@@ -1,0 +1,16 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-03-11
+- time: 08:24PM MST
+
+Today was a lot of admin work: looks like TD will be the official bank for NS.
+Great!
+
+I'm meeting up with friends tonight so I won't have much more time for playing
+with the Owl today. I'm at the point (or close to it) for adding the texture to
+the owl and I'd like to go with the clay d'oh generator. I have a feeling that
+I'm going to get a lot of use out of that. I'm sort of waiting for the corporate
+credit card for that, though.
