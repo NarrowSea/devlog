@@ -1,0 +1,26 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-03-12
+- time: 09:44PM MST
+
+Spent the night watching youtube videos about gaming which is a bit lame but I'm
+honestly feeling a bit burnt out from my day job work last week. I don't want to
+beat myself up about that too much.
+
+As more of a programming note, the first work cycle ends tomorrow night. I'll
+maybe be able to get a little bit more done on the current owl (maybe add a
+face) but this is basically it for the cycle. I'm not sure what I'm going to
+work on during this off cycle but I am sure it won't be 3D modeling. The only
+real goal for the off cycle is to decide what to work on during the next work
+cycle, and at this junction I need to question whether or not FindTheOwl makes
+sense.
+
+Oliver loves playing these mini games on one of the apps on his iPad. The issue
+I have is that the games are constantly trying to sell him on other apps and
+that sort of thing. The games are also really laggy despite being fairly
+simplistic which frustrates him a lot. So I'm thinking of possibly shifting
+gears and working on something for him there since it would directly improve
+his life.
