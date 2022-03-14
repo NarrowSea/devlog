@@ -1,0 +1,17 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 1
+- box: 1
+- date: 2022-03-13
+- time: 09:31PM MST
+
+Spent the evening helping out with some spring cleaning. There really wasn't
+a big reason for me to push too hard on the last day of this work cycle so I
+figured that I may as well help out.
+
+I suspect that most of my days during this off cycle will end up being spent on
+spring cleaning, but that's really beneficial to all aspects of my life. We are
+doing our best to create nicer work areas throughout the house. We've been
+carrying some extra stuff with us for far too long and it feels good to finally
+go through it all.
