@@ -1,0 +1,14 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 2
+- box: 2
+- date: 2022-03-21
+- time: 09:12PM MST
+
+Hi again! The last week was mostly spent playing Heaven's Vault in the evenings.
+We're back now for the start of work cycle 2 and I've decided to work on the
+playhouse game for Oliver.
+
+I'm a bit unfocused today but I've spent a little bit of time working on a 3d
+character named Leti (the Yeti) just to get back in the habit.
