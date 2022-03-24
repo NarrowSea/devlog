@@ -1,0 +1,18 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 2
+- box: 2
+- date: 2022-03-23
+- time: 09:24PM MST
+
+Today I set up a bit of a workflow to get the unity game streaming to my android
+phone. It's not ideal since I mostly want to be developing for Oliver on his
+iPad but it's probably good enough to get going for now. At the end of the day
+I don't think that I'm needing anything particularly advanced from the operating
+systems of the mobile devices -- access to the touch interface should be plenty.
+
+I think the first arcade game to build is the drawing application. The really
+nice part of that one is that there is no need for any 3d art (or for v1 even
+line art). I should be able to release the entire game with just the basic
+drawing application. Great!
