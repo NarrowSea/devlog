@@ -1,0 +1,30 @@
+- author: phil
+- tag: scribble
+- tag: log
+- tag: historic
+- cycle: 2
+- box: 3
+- date: 2022-05-16
+- time: 09:20PM MST
+
+Long time no talk! I've been working on the basement a bunch then had a couple
+of weeks off for a destination wedding and work trip.
+
+The time off has given me a lot of space to consider what I'd like to get out
+of these nightly sessions outside of a business perspective. One of my personal
+simmering frustrations with the game engine route is that I don't feel that I'm
+making much progress towards understanding how games really work. Instead I get
+the feeling that I'm mostly learning the provided tools.
+
+I'm not sure yet what the business implications of going one way or the other
+would be. I know that learning game dev "from scratch" will take a much longer
+time! On the other hand, it will provide me with much better tools for
+appreciating all aspects of game development and, I think, deeper personal
+satisfaction for me. I also suspect that many of the lower level thought
+patterns will benefit my work at my day job which is a nice bonus!
+
+All of this is to say that my next box and work cycle will be dedicated to the
+lower level world of game dev, specifically Handmade Hero by Casey Muratori. A
+historical part is that Handmade Hero is the first official purchase made by NS.
+
+Today's focus is on setting up a windows c++ environment.
