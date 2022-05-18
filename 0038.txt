@@ -1,0 +1,16 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 2
+- box: 3
+- date: 2022-05-17
+- time: 09:18PM MST
+
+Continue work on handmade hero. I forgot to mention yesterday that I'm also
+trying out doing development on an ergodox split keyboard which is a bit of a
+trip.
+
+The lessons today are more about creating the Windows specific layer for the
+game. Happy to hear that there are plans in the future to also support other
+platforms, and that there isn't any dependencies used (so I get a complete and
+visceral experience for the development).
