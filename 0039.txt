@@ -1,0 +1,11 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 2
+- box: 3
+- date: 2022-05-17
+- time: 09:18PM MST
+
+Today's lesson was a continuation of the basics of programming on C. I was
+surprised to see that he is already diving into the assembly. I'm way out of my
+comfort zone on this and I love it.
