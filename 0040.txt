@@ -1,0 +1,14 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 3
+- box: 3
+- date: 2022-05-19
+- time: 09:16PM MST
+
+Today's lesson dove into how hardware and data is stored and shuffled around on
+the hardware. It's quite the lesson! I feel that I'm getting a fairly practical
+lesson on a lot of the fundamentals of how the machine works.
+
+At a higher level, I wonder if I'm the right person for designing games? I love
+doing this even more than anything else that I've tried so far at Narrow Sea.
