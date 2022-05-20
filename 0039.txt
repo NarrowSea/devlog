@@ -1,9 +1,9 @@
 - author: phil
 - tag: scribble
 - tag: log
-- cycle: 2
+- cycle: 3
 - box: 3
-- date: 2022-05-17
+- date: 2022-05-18
 - time: 09:18PM MST
 
 Today's lesson was a continuation of the basics of programming on C. I was

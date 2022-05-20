@@ -2,7 +2,7 @@
 - tag: scribble
 - tag: log
 - tag: historic
-- cycle: 2
+- cycle: 3
 - box: 3
 - date: 2022-05-16
 - time: 09:20PM MST
