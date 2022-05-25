@@ -1,0 +1,12 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 3
+- box: 3
+- date: 2022-05-24
+- time: 10:08PM MST
+
+Finished up most of the pre-game videos during the long weekend and tonight I
+finished the first actual game-programming video. Very exciting! I've got my
+dev environment all set up and am able to compile and create "real" Windows
+applications. I've never done this before and I'm pretty excited for it.
