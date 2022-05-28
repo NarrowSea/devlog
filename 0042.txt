@@ -1,0 +1,17 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 3
+- box: 3
+- date: 2022-05-27
+- time: 10:26PM MST
+
+In the last few days we finished up work on the basics of game pad / keyboard
+input as well as some basic win32 incantations for audio. I don't have much to
+say on a day-to-day devlog other than "did more tutorial stuff". Quick 
+summaries will have to suffice.
+
+On a higher level, I really love being in complete control of the entire
+system. I'm not sure I want to go back to the available engine options despite
+the productivity increases they offer. I think that route may also banish NS
+into the realm of eternal indie shop... But I'm totally fine with that.
