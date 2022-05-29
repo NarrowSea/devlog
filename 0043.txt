@@ -1,0 +1,15 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 3
+- box: 3
+- date: 2022-05-28
+- time: 10:10PM MST
+
+Audio! Today we were able to blow out our ears by playing a square wave way too
+loud into the headset. Good times. I think the general Win32 layer is coming
+together very well and we'll probably be moving on to some game code soon.
+
+Peeking at the actual schedule...we are still about 18 tutorial days away
+(though that time does include making our i/o layers platform independent). All
+important stuff!
