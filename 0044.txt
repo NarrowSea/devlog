@@ -1,0 +1,19 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 3
+- box: 3
+- date: 2022-06-05
+- time: 9:49 PM MST
+
+We've refined the Win32 layer quite a bit at this point, so I expect that we
+will move on to the actual game development pretty soon.
+
+The process hasn't been nearly as daunting as I thought before (even factoring
+in the complexities of the audio buffering layer). Which is great! It doesn't
+feel out of my reach to get this.
+
+At some point in the near-ish future I'll need to take a hiatus from Narrow Sea
+to knit a new blanket for my soon-to-be-born daughter. There is an upcoming
+episode regarding game design as a general topic and that's probably a good
+place to park.
