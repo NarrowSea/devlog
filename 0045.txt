@@ -1,0 +1,13 @@
+- author: phil
+- tag: scribble
+- tag: log
+- cycle: 3
+- box: 3
+- date: 2022-06-010
+- time: 10:01 PM MST
+
+Today we finished a "good enough" Win32 platform layer for the game. The
+tutorial I watched today was about game architecture in general and I think it's
+also a good place to take a break for a bit while I knit a couple of blankets.
+
+I'm not the fastest at knitting so it may take a while to get back!
