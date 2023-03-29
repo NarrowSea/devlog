@@ -1,0 +1,29 @@
+- author: phil
+- tag: scribble
+- tag: on work
+- date: 2023-03-29
+- time: 2:29PM
+
+Long time no write! I don't have a particularly good reason for not writing in so long. Whatever!
+
+Lately I've been working through Computer, Enhance! which is a new series by Casey Muratori. I haven't really worked on handmade hero at all since I last wrote (ugh). A new project that I'm working on in the meantime is a utility for working with serial devices. Org:
+
+Narrow Sea Studios
+    - XUpSoft
+        - Wirefarer
+
+Wirefarer v1 is focused on Modbus in particular. Most utilities for dealing with Modbus are quite basic (even the paid ones) and I think I can do a better job. XUpSoft will be the name of the studio that works on everything serial.
+
+Another idea I've had lately is what I'll call the CIAO protocol.
+
+C: Context
+I: Input
+A: Algorithm
+O: Output
+
+It occurred to me when thinking about Wirefarer that a _ton_ of workflows follow the CIAO protocol. There is some context that everything happens in, including things like authentication. Then there is some data input, an algorithm that processes that data, and an output target. This workflow applies to computery stuff (get data from stream, process it, send it out) as well as businessy ones (paste data into excel, process it, copy data out). One particularly interesting part of CIAO is that the A could be a set of CIAO protocols.
+
+I imagine a gui that lets folks drag and drop the nodes of a CIAO program graphically before compiling into something suitable for running on a server.
+
+Until then, Wirefarer is a much more basic application (that can act as a bit of a first step towards the CIAO opus).
+
