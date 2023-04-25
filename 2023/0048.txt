@@ -1,0 +1,15 @@
+- author: phil
+- tag: scribble
+- tag: on work
+- date: 2023-04-25
+- time: 4:10PM
+
+Lately I've been working on Wirefarer mostly, but today I switched back to working on Seafarer (now Cheprove) to help folks with the annoying issue of remotely signing cheques. This is an application that we've used a lot at Abra and that I think might be useful for other people.
+
+I don't think I'll go so far as to make it production ready, but I will use it as an opportunity to play with some new pieces of tech that I haven't used yet:
+
+* Tailwind CSS
+* Next.js
+* Prisma
+
+The goal is to have it wrapped up as a single deployment docker file. If it's easy enough to launch it could be a great starting point for doing more of these kinds of applications in the XUpSoft studio.
