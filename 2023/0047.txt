@@ -1,0 +1,11 @@
+- author: phil
+- tag: scribble
+- tag: on work
+- date: 2023-04-11
+- time: 1:45PM
+
+I've continued my work on Computer, Enhance! and Wirefarer continuously since my last post. I think I'll also jump back into HH as well as SICP after an upcoming family trip we are doing this month.
+
+One thing that I've been playing with lately is Github's Copilot which has been shockingly good? I don't know why it's shocking but I think it's a tool I'd have a hard time going without (like the first time I used an IDE with autocomplete). It's a bit like having a second person that I'm talking to while I'm coding. I was especially impressed with it's knowledge of specific protocols (like Modbus).
+
+In the Computer, Enhance! world we are pretty much done with our 8086 simulator and ready to move on to whatever is next. A strange aside: I've been reading The Dream Machine (Waldrop) and there is some overlap with what we've been up to in Computer, Enhance!. I think that every time I read a book I find these kinds of weird connections to whatever I'm doing in my life. I wonder if there's a word for that?
